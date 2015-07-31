@@ -1,8 +1,8 @@
 {
   "name": "cv",
   "version": "0.1.0",
-  "description": "Sebastian Senf&#x27;s CV",
-  "author": "Sebastian Senf (me@akrasia.me)",
+  "description": "Marcelo Andrade&#x27;s CV",
+  "author": "Marcelo Andrade (mmartche@gmail.com)",
   "license": "MIT",
   "main": "client/index.coffee",
   "scripts": {
