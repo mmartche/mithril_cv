@@ -19,7 +19,7 @@ gulp compile
 http-server build/public
 ```
 > Alguns sistemas operacionais podem ter restrições com permissões, para resolver isto basta ter direitos administrativos e incluir o comando `sudo` antes da instalação.
-ex: `sudo npm install -g bower gulp http-server`
+> ex: `sudo npm install -g bower gulp http-server`
 ex2: `sudo npm install`
 ex3: `...`
 
