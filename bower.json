@@ -1,19 +1,9 @@
 {
-  "name": "cv",
-  "version": "0.1.0",
-  "authors": [
-    "Marcelo Andrade (mmartche@gmail.com)"
-  ],
-  "description": "Marcelo &#x27;s CV",
-  "main": "client/index.html",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
+  "name": "mithril-boilerplate",
+  "version": "0.1.2",
+  "devDependencies": {
+    "mithril": "~0.1.13",
+    "min-require": "~0.1.2",
+    "bootstrap": "~3.1.1"
   }
 }
