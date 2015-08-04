@@ -4,13 +4,13 @@
 
 ## Quick start
 
-Tenha certeza de ter instalado `node` e `npm`. Então faça:
+Tenha certeza que já ter instalado `node` e `npm`. Depois digite os seguintes comandos no terminal:
 
 ```
 npm install -g bower gulp http-server
 
-git clone https://github.com/mmartche/marceloandrade-scup.git
-cd marceloandrade-scup
+git clone https://github.com/mmartche/mithril_cv.git
+cd mithril_cv
 
 npm install
 bower install
@@ -19,11 +19,13 @@ gulp compile
 http-server build/public
 ```
 > Alguns sistemas operacionais podem ter restrições com permissões, para resolver isto basta ter direitos administrativos e incluir o comando `sudo` antes da instalação.
+
 > ex: `sudo npm install -g bower gulp http-server`
 ex2: `sudo npm install`
 ex3: `...`
 
-Rodando os comandos acima só precisa acessar seu browser com a url http://localhost:8080
+Após executar os comandos acima, enquanto exibe a mensagem de que o servidor virtual esta sendo executado, acesse seu browser com a url 
+> http://localhost:8080
 
 
 ## Características do App
