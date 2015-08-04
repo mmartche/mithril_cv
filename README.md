@@ -39,3 +39,6 @@ Após executar os comandos acima, enquanto exibe a mensagem de que o servidor vi
 * Módulos do Client side encapsulados em CommonJs
 * Scripts e Estilos minificados para produção
 
+##Demo
+
+[clique aqui](http://scup.martche.ca/#/) para ver funcionando
